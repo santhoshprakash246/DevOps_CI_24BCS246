@@ -17,3 +17,6 @@ mvn test
 ```
 
 The application logic is in `src/main/java/com/bloodbank/BloodBankService.java`, with JUnit tests in `src/test/java/com/bloodbank/BloodBankServiceTest.java`.
+
+## Latest Update
+Blood Bank Management System project successfully connected to GitHub.
