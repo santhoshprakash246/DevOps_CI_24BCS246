@@ -22,3 +22,5 @@ The application logic is in `src/main/java/com/bloodbank/BloodBankService.java`,
 Blood Bank Management System project successfully connected to GitHub.
 
 Project Status: Donor registration module added
+## Blood Donor Management
+The system supports donor registration and blood stock management.
