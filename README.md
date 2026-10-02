@@ -20,3 +20,5 @@ The application logic is in `src/main/java/com/bloodbank/BloodBankService.java`,
 
 ## Latest Update
 Blood Bank Management System project successfully connected to GitHub.
+
+Project Status: Initial Blood Bank Management System
